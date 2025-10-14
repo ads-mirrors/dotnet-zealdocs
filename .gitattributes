@@ -29,3 +29,4 @@ COPYING text
 *.png binary
 *.woff binary
 *.woff2 binary
+.github/ merge=ours
